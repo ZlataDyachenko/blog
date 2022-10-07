@@ -44,6 +44,7 @@ social:
     icon_pack: fab
     link: https://github.com/ZlataDyachenko
   - icon: vk
+    icon_pack: fab
     link: https://vk.com/id25077430
 
 # Link to a PDF of your resume/CV.
