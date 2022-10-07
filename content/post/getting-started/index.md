@@ -3,7 +3,7 @@ title: Прошедшая неделя
 subtitle: Иногда бывает трудно выполнить задания
 
 # Summary for listings and search engines
-summary: Я знаю точно невозможное возможно
+summary: Я знаю точно - невозможное возможно
 
 # Link this post with a project
 projects: []
@@ -31,7 +31,7 @@ image:
 authors:
   - admin
 
-  tags:
+tags:
     - Академические будни
     - Неделя 1
 ---
