@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 25%
-    icon: person-chalkboard
+    icon: chalkboard-user
     icon_pack: fas
     name: Teaching
 # Uncomment to use emoji icons.
