@@ -47,7 +47,7 @@ social:
     icon_pack: fab
     link: https://vk.com/id25077430
   - icon: book
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.elibrary.ru/titlebox.asp
   - icon: google-scholar
     icon_pack: ai
@@ -55,9 +55,6 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0003-2285-4560  
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0003-2285-4560
   - icon: mendeley
     icon_pack: ai
     link: https://www.mendeley.com/reference-manager/library/all-references/
