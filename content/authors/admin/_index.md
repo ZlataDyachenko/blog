@@ -46,7 +46,30 @@ social:
   - icon: vk
     icon_pack: fab
     link: https://vk.com/id25077430
-
+  - icon: book
+    icon_pack: fab
+    link: https://www.elibrary.ru/titlebox.asp
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?view_op=new_profile&hl=ru&authuser=1
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0003-2285-4560  
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0003-2285-4560
+  - icon: mendeley
+    icon_pack: ai
+    link: https://www.mendeley.com/reference-manager/library/all-references/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Zlata-Dacenko
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/ЗлатаДяченко
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/user/     
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
